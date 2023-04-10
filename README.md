@@ -1,4 +1,4 @@
-# ௐ ॐ
+# ^!_!^
 ### Hi there 👋 I'm Rohith
 
 - 🔭 I’m currently working on Native Web devlopment(WA-Web Assembly using rust) and Web3 development
@@ -10,7 +10,7 @@
     - GTK-4 toolkit
     - C++ & C
 - 📫 How to reach me: Rohith.dev@zohomail.in
-- 🫂 Old profile: @viruz-cbe
+- 🫂 Old profile: github.com/viruz cbe
 - 🌐 GitLab Profile: <a href="https://gitlab.com/rohi-dev"> Click here </a>
 <!--
 **rohi-devs/rohi-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
