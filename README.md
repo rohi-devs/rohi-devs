@@ -10,6 +10,7 @@
     - GTK-4 toolkit
     - C++ & C
 - 📫 How to reach me: Rohith.dev@zohomail.in
+- 🫂 Old profile: @viruz-cbe
 - 🌐 GitLab Profile: <a href="https://gitlab.com/rohi-dev"> Click here </a>
 <!--
 **rohi-devs/rohi-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
