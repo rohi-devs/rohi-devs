@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on Native Web devlopment(WA-Web Assembly using rust) and Web3 development
 - 🌱 I’m currently learning 
     - Rust
+    - Java
+    - Python
     - JavaScript
     - ReactJS
-    - Python
     - GTK-4 toolkit
-    - C++ & C
 - 📫 How to reach me: Rohith.dev@zohomail.in
 - 🫂 Old profile: <a href="https://github.com/viruz-cbe">@viruz-cbe</a>
 - 🌐 GitLab Profile: <a href="https://gitlab.com/rohi-dev"> Click here </a>
